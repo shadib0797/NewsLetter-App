@@ -2,9 +2,9 @@
   "name": "newsletter-app",
   "version": "1.0.0",
   "description": "Newsletter App using mailchimp API",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node index.js"
   },
   "author": "Shadib",
   "license": "ISC",
